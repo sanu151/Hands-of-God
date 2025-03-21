@@ -620,7 +620,10 @@ You can use the following tools to create digital wireframes:
 ---
 
 By following these steps, you’ll have a clear and well-designed set of wireframes for your game. Let me know if you need help with digital wireframes or further refinements!
+---
+---
 
+##Choose Technology Stack
 
 Choosing the right **technology stack** is crucial for building your game efficiently and ensuring it performs well across platforms. Below, I’ll break down the recommended technologies for each platform and explain why they’re a good fit for **"Hands of God"**.
 
