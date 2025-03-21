@@ -339,8 +339,11 @@ Visualize the game flow to ensure clarity and consistency. Here’s an example:
 3. **Test and Iterate**: Test the game with real users and refine based on feedback.
 
 ---
-
-This revised concept aligns with the **"Hands of God"** theme and introduces exciting new features to make the game more engaging. Let me know if you need help with wireframes, prototyping, or any other step!
+---
+## Create Wireframes
+- Sketch the app layout (home screen, game screen, settings, etc.).
+  
+**"Hands of God"** theme and introduces exciting new features to make the game more engaging.
 
 
 Creating **wireframes** is an essential step in designing your app. Wireframes are simple, visual representations of the app's layout and functionality. They help you plan the user interface (UI) and user experience (UX) before diving into development. Below, I’ll provide a **step-by-step guide** to sketching wireframes for your game, **"Hands of God"**.
