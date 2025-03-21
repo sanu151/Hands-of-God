@@ -414,8 +414,7 @@ The **Game Screen** is where the core gameplay happens. It should be clean and f
 2. **Holy Dots**: Glowing dots appear randomly in each player’s area.
 3. **Score Display**: Show both players’ scores at the top of the screen.
 4. **Timer (Optional)**: Display a timer if you add a timed mode.
-5. **Pause Button**: A small pause icon in the top-right corner.
-6. **Background**: A celestial theme with subtle animations (e.g., glowing light).
+5. **Background**: A celestial theme with subtle animations (e.g., glowing light).
 
 #### **Wireframe Layout**:
 ```
@@ -429,7 +428,6 @@ The **Game Screen** is where the core gameplay happens. It should be clean and f
 |                |              |
 |                |              |
 |                |              |
-|     [ ⏸️ ]     |              |
 ---------------------------------
 ```
 
@@ -533,3 +531,5 @@ You can use the following tools to create digital wireframes:
 ---
 
 By following these steps, you’ll have a clear and well-designed set of wireframes for your game. Let me know if you need help with digital wireframes or further refinements!
+
+
