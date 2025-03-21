@@ -342,3 +342,190 @@ Visualize the game flow to ensure clarity and consistency. Here’s an example:
 
 This revised concept aligns with the **"Hands of God"** theme and introduces exciting new features to make the game more engaging. Let me know if you need help with wireframes, prototyping, or any other step!
 
+
+Creating **wireframes** is an essential step in designing your app. Wireframes are simple, visual representations of the app's layout and functionality. They help you plan the user interface (UI) and user experience (UX) before diving into development. Below, I’ll provide a **step-by-step guide** to sketching wireframes for your game, **"Hands of God"**.
+
+---
+
+### **1. Home Screen**
+The **Home Screen** is the first screen users see when they open the app. It should be simple, intuitive, and visually appealing.
+
+#### **Elements to Include**:
+1. **Game Title**: "Hands of God" (centered at the top).
+2. **Play Button**: A large button to start the game.
+3. **Multiplayer Button**: A button to play with friends or random players.
+4. **Settings Button**: A small gear icon in the top-right corner.
+5. **Leaderboard Button**: A trophy icon in the top-left corner.
+6. **Background**: A celestial theme (e.g., clouds, stars, divine light).
+
+#### **Wireframe Layout**:
+```
+---------------------------------
+|  🏆 Leaderboard  ⚙️ Settings  |
+|                               |
+|         Hands of God          |
+|                               |
+|          [ PLAY ]             |
+|                               |
+|       [ MULTIPLAYER ]         |
+|                               |
+---------------------------------
+```
+
+---
+
+### **2. Multiplayer Screen**
+The **Multiplayer Screen** allows players to create or join rooms to play with others.
+
+#### **Elements to Include**:
+1. **Create Room Button**: A button to create a new room.
+2. **Join Room Button**: A button to join an existing room using a room ID.
+3. **Room ID Input Field**: A text field to enter a room ID.
+4. **Back Button**: A button to return to the Home Screen.
+5. **Background**: Continuation of the celestial theme.
+
+#### **Wireframe Layout**:
+```
+---------------------------------
+|          Hands of God         |
+|                               |
+|       [ CREATE ROOM ]         |
+|                               |
+|       [ JOIN ROOM ]           |
+|                               |
+|  Enter Room ID: [_________]   |
+|                               |
+|          [ BACK ]             |
+|                               |
+---------------------------------
+```
+
+---
+
+### **3. Game Screen**
+The **Game Screen** is where the core gameplay happens. It should be clean and focused on the game elements.
+
+#### **Elements to Include**:
+1. **Player Areas**: The screen is divided into two equal parts (one for each player).
+2. **Holy Dots**: Glowing dots appear randomly in each player’s area.
+3. **Score Display**: Show both players’ scores at the top of the screen.
+4. **Timer (Optional)**: Display a timer if you add a timed mode.
+5. **Pause Button**: A small pause icon in the top-right corner.
+6. **Background**: A celestial theme with subtle animations (e.g., glowing light).
+
+#### **Wireframe Layout**:
+```
+---------------------------------
+|  Player 1: 0   |  Player 2: 0 |
+|----------------|--------------|
+|                |              |
+|      •         |      •       |
+|                |              |
+|                |              |
+|                |              |
+|                |              |
+|                |              |
+|     [ ⏸️ ]     |              |
+---------------------------------
+```
+
+---
+
+### **4. End Screen**
+The **End Screen** appears when the game ends, displaying the winner and options to replay or return to the Home Screen.
+
+#### **Elements to Include**:
+1. **Winner Announcement**: Display the winner’s name and score.
+2. **Replay Button**: A button to play again.
+3. **Home Button**: A button to return to the Home Screen.
+4. **Background**: A celebratory celestial theme (e.g., fireworks, glowing light).
+
+#### **Wireframe Layout**:
+```
+---------------------------------
+|          Hands of God         |
+|                               |
+|       Player 1 Wins!          |
+|       Score: 100              |
+|                               |
+|         [ REPLAY ]            |
+|                               |
+|          [ HOME ]             |
+|                               |
+---------------------------------
+```
+
+---
+
+### **5. Settings Screen**
+The **Settings Screen** allows players to customize the game settings.
+
+#### **Elements to Include**:
+1. **Sound Toggle**: A switch to turn sound effects on/off.
+2. **Music Toggle**: A switch to turn background music on/off.
+3. **Vibration Toggle**: A switch to enable/disable vibration.
+4. **Back Button**: A button to return to the Home Screen.
+5. **Background**: Continuation of the celestial theme.
+
+#### **Wireframe Layout**:
+```
+---------------------------------
+|          Hands of God         |
+|                               |
+|       Sound: [ ON / OFF ]     |
+|                               |
+|       Music: [ ON / OFF ]     |
+|                               |
+|    Vibration: [ ON / OFF ]    |
+|                               |
+|          [ BACK ]             |
+|                               |
+---------------------------------
+```
+
+---
+
+### **6. Leaderboard Screen**
+The **Leaderboard Screen** displays the top players and their scores.
+
+#### **Elements to Include**:
+1. **Leaderboard Title**: "Leaderboard" (centered at the top).
+2. **Player Rankings**: A list of players with their names and scores.
+3. **Back Button**: A button to return to the Home Screen.
+4. **Background**: Continuation of the celestial theme.
+
+#### **Wireframe Layout**:
+```
+---------------------------------
+|          Leaderboard          |
+|                               |
+|   1. Player 1 - 100 Points    |
+|   2. Player 2 - 95 Points     |
+|   3. Player 3 - 90 Points     |
+|                               |
+|          [ BACK ]             |
+|                               |
+---------------------------------
+```
+
+---
+
+### **7. Tools to Create Wireframes**
+You can use the following tools to create digital wireframes:
+1. **Pen and Paper**: Sketch rough layouts by hand.
+2. **Figma**: A free, powerful tool for designing wireframes and prototypes.
+3. **Adobe XD**: A professional tool for UI/UX design.
+4. **Sketch**: A popular tool for designing app interfaces.
+5. **Canva**: A simple tool for creating basic wireframes.
+
+---
+
+### **8. Next Steps**
+1. **Sketch Wireframes**: Use the layouts above to create rough sketches.
+2. **Create Digital Wireframes**: Use tools like Figma or Adobe XD to design digital versions.
+3. **Test with Users**: Share the wireframes with potential users for feedback.
+4. **Refine**: Make adjustments based on feedback.
+
+---
+
+By following these steps, you’ll have a clear and well-designed set of wireframes for your game. Let me know if you need help with digital wireframes or further refinements!
