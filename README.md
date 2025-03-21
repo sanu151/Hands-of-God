@@ -207,6 +207,7 @@ The name **"Hands of God"** is intriguing and evokes a sense of power, precision
   - Players can tap dots in **their own area** or the **opponent’s area**.
   - The player who taps a dot **first** scores 1 point.
   - Both dots disappear immediately after a successful tap, and new dots appear.
+  - If a player taps a dot in the opponent’s area but loses the race (i.e., the opponent taps it first), they lose 1 point.
 
 ---
 
@@ -221,6 +222,7 @@ The name **"Hands of God"** is intriguing and evokes a sense of power, precision
 - Each successful tap awards **1 point** to the player who tapped the dot first.
 - Players can tap dots in **their own area** or the **opponent’s area**.
 - Tapping a dot in the opponent’s area **awards points** (encourages aggressive gameplay).
+- If a player taps a dot in the opponent’s area but loses the race (i.e., the opponent taps it first), they lose 1 point.
 
 #### **c. Multiplayer Rules**
 - Both players start with **0 points**.
