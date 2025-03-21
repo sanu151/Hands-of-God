@@ -618,8 +618,6 @@ You can use the following tools to create digital wireframes:
 4. **Refine**: Make adjustments based on feedback.
 
 ---
-By following these steps, you’ll have a clear and well-designed set of wireframes for your game.
----
 ---
 
 ## Choose Technology Stack
