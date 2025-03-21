@@ -183,6 +183,7 @@ By following this roadmap, you can systematically develop, test, and launch your
 The name **"Hands of God"** is intriguing and evokes a sense of power, precision, and divine control. It fits well with a fast-paced, competitive game where players must react quickly and accurately to dominate their opponent. Let’s refine the **game concept** and **rules** to align with this theme and make the game even more engaging.
 
 ---
+---
 
 ### **Game Concept: Hands of God**
 
